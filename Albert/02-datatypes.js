@@ -27,21 +27,21 @@ let myBigInt = BigInt(3252345234534523513451345134513451345345)
 let myBigInt2 = 3252345234534523513451345134513451345345n
 
 // Mostramos los tipos de datos
-console.log(myName)
-console.log(alias)
-console.log(email)
+console.log(typeof myName)
+console.log(typeof alias)
+console.log(typeof email)
 
-console.log(age)
-console.log(height)
+console.log(typeof age)
+console.log(typeof height)
 
-console.log(isTeacher)
-console.log(isStudent)
+console.log(typeof isTeacher)
+console.log(typeof isStudent)
 
-console.log(undefinedVariable)
+console.log(typeof undefinedVariable)
 
-console.log(nullValue)
+console.log(typeof nullValue)
 
-console.log(mySymbol)
+console.log(typeof mySymbol)
 
-console.log(myBigInt)
-console.log(myBigInt2)
+console.log(typeof myBigInt)
+console.log(typeof myBigInt2)
